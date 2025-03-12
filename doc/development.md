@@ -1,4 +1,5 @@
-# Pi Platform Demo App: Development Environment
+6578a85ac341c771027e6d5834fd5e9b4456ef706d648a14a477d82bc0979eaf913e5cf7295878bd14c60fe9836dca3b073555631145f74dca1d3467fe0b0a9c
+o# Pi Platform Demo App: Development Environment
 
 The following document explains how to set up a development environment and run the Pi Platform Demo App in the
 sandbox environment.
